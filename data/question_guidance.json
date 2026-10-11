@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "correlation_causation",
+      "name": "Correlation versus causation",
+      "learning_note": "Two things changing together does not prove that one caused the other. Look for a fair comparison, a possible third factor, and evidence that can distinguish cause from coincidence.",
+      "topics": ["two trends changing together", "a before-and-after claim", "a causal claim without a comparison group"],
+      "question_types": ["identify what evidence would support causation", "notice a third factor", "separate a pattern from its explanation"]
+    },
+    {
+      "id": "statistical_reasoning",
+      "name": "Statistical reasoning",
+      "learning_note": "Numbers need context. Ask how many people were counted, how they were selected, what the percentage is based on, and whether an average hides important differences.",
+      "topics": ["small or unrepresentative samples", "percentages without context", "misleading averages"],
+      "question_types": ["ask about sample size", "compare absolute numbers with percentages", "notice missing context"]
+    },
+    {
+      "id": "source_credibility",
+      "name": "Source credibility",
+      "learning_note": "Trace a claim back to its original source. Check whether the source has relevant expertise and evidence, and whether independent reliable sources confirm it. Popularity alone is not proof.",
+      "topics": ["anonymous posts", "screenshots without a link", "claims attributed to experts"],
+      "question_types": ["identify a trustworthy original source", "check expertise and evidence", "distinguish popularity from reliability"]
+    },
+    {
+      "id": "logical_fallacies",
+      "name": "Logical fallacies",
+      "learning_note": "A logical fallacy is a mistake in how a conclusion is supported. Check whether the reasons actually connect to the claim; an attack on a person, for example, does not answer their evidence.",
+      "topics": ["personal attacks", "false choices", "appeals to popularity", "straw-man arguments"],
+      "question_types": ["identify the reasoning error", "separate a claim from an attack on its speaker", "find a reasonable conclusion"]
+    },
+    {
+      "id": "emotional_manipulation",
+      "name": "Emotional manipulation",
+      "learning_note": "Fear, anger, guilt, or urgency can pressure people to react quickly. Notice the emotion, pause, and check the evidence before believing or sharing.",
+      "topics": ["urgent sharing requests", "fear or outrage language", "guilt-based appeals"],
+      "question_types": ["notice emotional pressure", "pause before sharing", "separate emotional reaction from evidence"]
+    },
+    {
+      "id": "alternative_explanations",
+      "name": "Alternative explanations",
+      "learning_note": "One event can have more than one possible explanation. Think of reasonable alternatives and ask what information would help tell them apart.",
+      "topics": ["single-cause explanations", "ambiguous events", "claims that ignore other possibilities"],
+      "question_types": ["generate a plausible alternative", "identify missing information", "compare explanations fairly"]
+    },
+    {
+      "id": "ai_manipulated_media",
+      "name": "AI-generated or manipulated media",
+      "learning_note": "A photo, video, or voice recording can be edited or generated. Appearance alone cannot prove it is genuine; look for the original context and independent ways to verify it.",
+      "topics": ["edited images", "synthetic audio or video", "AI-generated screenshots"],
+      "question_types": ["avoid judging from appearance alone", "seek original context", "identify independent ways to verify"]
+    }
+  ]
+}
